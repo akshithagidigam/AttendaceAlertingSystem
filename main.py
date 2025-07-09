@@ -8,7 +8,7 @@ from email.message import EmailMessage
 
 # Email credentials
 SENDER_EMAIL = "akshitha111723039007@gmail.com"
-APP_PASSWORD = "bjmswejzdydqxyan"  # ⚠️ Keep this secret in production
+APP_PASSWORD = "**************"  
 
 # Number of hours per day
 num_hours = 5
